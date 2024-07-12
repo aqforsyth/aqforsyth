@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aqforsyth
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning a lot in my data analytics engineering master's at GMU including AWS tools, SQL, Hadoop, Spark and more as well as gaining more experience in R, python, tableau, and more 
+- 🌱 I’m currently learning a lot in my data analytics engineering master's at GMU including AWS tools, SQL, Hadoop, Spark and more as well as gaining more experience in R, python, tableau, and more. Through my job  am currently working a lot with r and python for data visualization as well as working towards taking the Tableau Data Analyst certification test. 
 - 📫 How to reach me LinkedIn profile Allison Forsyth
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've run 4 half marathons!
